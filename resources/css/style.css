@@ -2,7 +2,8 @@ body {
   text-align: center;
 }
 
-.header {
+.header,
+.secondhead {
   background-image: url(./../images/the-flatiron-building.png);
   color: white;
 }
