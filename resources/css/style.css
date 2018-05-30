@@ -11,6 +11,7 @@ h1 {
 .header,
 .secondhead {
   background-image: url(./../images/the-flatiron-building.png);
+  background-size: cover;
   color: white;
 }
 
@@ -19,7 +20,7 @@ a {
   font-size: 18px;
 }
 
-.process h2 {
+h2 {
   font-size: 32px;
   font-weight: bold;
 }
